@@ -1,0 +1,6 @@
+out.csv
+/dist/
+/build/
+/.vscode/
+
+*.spec
